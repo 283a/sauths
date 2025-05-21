@@ -1,9 +1,2 @@
 /target
 /keys
-
-# IDE files
-.idea/
-.vscode/
-*.swp
-
-Cargo.lock
